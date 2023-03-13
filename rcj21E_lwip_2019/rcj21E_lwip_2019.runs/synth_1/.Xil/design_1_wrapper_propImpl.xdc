@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/RCJ/RCJ14E/RCJ14E_pro_wending/rcj21E_lwip_2019/rcj21E_lwip_2019.srcs/constrs_2/new/IO_xdc.xdc rfile:../../../rcj21E_lwip_2019.srcs/constrs_2/new/IO_xdc.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN AB27 [get_ports MDIO_ETHERNET_0_0_mdc]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN AC27 [get_ports MDIO_ETHERNET_0_0_mdio_io]
